@@ -1,10 +1,10 @@
 # Analyzing-TV-Data_Manipulation-Data_Visualization_Python
-The half-time, It is a show TV . In this notebook, we're going to find out how some of the elements of this show interact with each other. After exploring and cleaning our data a little, we're going to answer questions like:
-
-What are the most extreme game outcomes?
-How does the game affect television viewership?
-How have viewership, TV ratings, and ad cost evolved over time?
-Who are the most prolific musicians in terms of halftime show performances?
+For this project, we used a combination of data manipulation and visualization to explore television data. Generating insights into game outcomes, viewership, and even halftime shows. We developed an informative plot that helps to visualize the viewership and quality of The Office throughout its nine seasons.
+- we're going to answer questions like:
+- What are the most extreme game outcomes?
+- How does the game affect television viewership?
+- How have viewership, TV ratings, and ad cost evolved over time?
+- Who are the most prolific musicians in terms of halftime show performances?
 ## Libraries
 - Pandas
 - Numpy
