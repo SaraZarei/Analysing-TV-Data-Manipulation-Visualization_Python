@@ -1,6 +1,6 @@
 # Analyzing-TV-Data_Manipulation-Data_Visualization_Python
 For this project, we used a combination of data manipulation and visualization to explore television data. Generating insights into game outcomes, viewership, and even halftime shows. We developed an informative plot that helps to visualize the viewership and quality of The Office throughout its nine seasons.
-- we're going to answer questions like:
+we're going to answer questions like:
 - What are the most extreme game outcomes?
 - How does the game affect television viewership?
 - How have viewership, TV ratings, and ad cost evolved over time?
